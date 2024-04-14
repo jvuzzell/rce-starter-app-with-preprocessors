@@ -1,5 +1,5 @@
 import "../../main.js";
-import "../../components/my-second-component.js"
+import "../../components/readme-page-component.js"
 
 (function(){
     setTimeout(() => {

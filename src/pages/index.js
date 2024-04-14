@@ -1,5 +1,5 @@
 import "../main.js";
-import "../components/my-first-component.js"
+import "../components/home-page-component.js"
 
 (function(){
     setTimeout(() => {
